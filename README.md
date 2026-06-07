@@ -1,4 +1,4 @@
-# marzban backup script (sqlite version
+# marzban backup script (sqlite version)
 
 ## Usage:
 1. Create a copy of config.env.example to config.env:
